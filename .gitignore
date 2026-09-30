@@ -1,0 +1,9 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+Backup/
+UpgradeLog.htm
+settings.json
+build/*.exe
