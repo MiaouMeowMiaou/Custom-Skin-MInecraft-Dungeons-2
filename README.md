@@ -37,10 +37,6 @@ dotnet build -c Release
 dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -o ./publish
 ```
 
-<div align="right">
-  <a href="#-english"><b>English</b></a> | <a href="#-français"><b>Français</b></a>
-</div>
-
 ---
 
 # MCD2 Custom Skin (needs a better name lmao)
